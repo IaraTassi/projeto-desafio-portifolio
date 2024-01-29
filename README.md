@@ -1,10 +1,7 @@
 # Projeto portfólio desafio de formação
-
 Repositório do projeto Portfólio dos cursos de HTML e CSS da formação Iniciante em Programação.
 Fiz algumas alterações, criei no Canva um avatar, alterei a font size do projeto por gosto pessoal, também coloquei um link do Bootstrap 5 no CSS para usar os Icons (usei o icon check) para usar na lista não ordenada em que listo apenas alguns cursos que fiz.
-
 Projeto desenvolvido pela Oracle [Oracle - One Next Education](https://www.oracle.com/br/education/oracle-next-education/) em parceria com a Alura [Alura](https://www.alura.com.br/) para o programa One Oracle Next Education a tecnologia é para todos.
-
 O programa tem duas formações
 
 Desenvolvimento pessoal:
@@ -24,12 +21,13 @@ Iniciante em programação
 - HTML e CSS: trabalhando com responsividade e publicação de projetos
 - Git e GitHub: compartilhando e colaborando em projetos
 
+### 👁 O resultado
+
+✨ Imagem do projeto
+![Screenshot ](https://github.com/IaraTassi/projeto-desafio-portifolio/blob/main/assets/captura-home.png)
+![Screenshot ](https://github.com/IaraTassi/projeto-desafio-portifolio/blob/main/assets/captura-sobre.png)
+
 ## ⚙ Ferramentas e linguagens
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20"  /> HTML
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="20" height="20" /> CSS
-
-### 👁 O resultado
-
-✨ Imagem do projeto
-![Screenshot ]()
